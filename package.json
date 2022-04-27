@@ -1,6 +1,6 @@
 {
 	"author": "Jonathan HF Wright",
-	"decription": "Getting my feet wet with basic backend principles.",
+	"description": "Getting my feet wet with basic backend principles.",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
